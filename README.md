@@ -1,1 +1,1 @@
-# Django-Restaurant-Menu
+# Django-Restaurant/Menu
