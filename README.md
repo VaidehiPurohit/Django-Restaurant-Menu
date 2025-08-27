@@ -13,8 +13,6 @@ Customers can browse menu items, and admins can manage menu & reservations.
 ---
 🍴 Usage
 
-Open your browser: http://127.0.0.1:8000/
-
 View the menu: /menu
 
 Make a reservation: /book
