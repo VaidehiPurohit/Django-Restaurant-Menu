@@ -11,9 +11,13 @@ Customers can browse menu items, and admins can manage menu & reservations.
 - 🚀 Built with Django (Python) for fast development  
 
 ---
+🍴 Usage
 
-## 🛠️ Installation
+Open your browser: http://127.0.0.1:8000/
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/VaidehiPurohit/Django-Restaurant-Menu.git
+View the menu: /menu
+
+Make a reservation: /book
+
+Admin panel: /admin (create a superuser first: python manage.py createsuperuser)
+
